@@ -1,11 +1,11 @@
 {
-    "name": "ant-design-enhanced-modal",
-    "version": "1.0.0",
-    "description": "Modal from Ant Design, draggable and resizable.",
-    "homepage": "https://github.com/JozefKamensky/ant-design-enhanced-modal#readme",
+    "name": "ant-design-draggable-modal",
+    "version": "0.0.14",
+    "description": "Modal from Ant Design, draggable.",
+    "homepage": "https://github.com/JozefKamensky/ant-design-draggable-modal#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/JozefKamensky/ant-design-enhanced-modal.git"
+        "url": "https://github.com/JozefKamensky/ant-design-draggable-modal.git"
     },
     "license": "MIT",
     "author": "JozefKamensky",
