@@ -3,6 +3,8 @@
 <div align="center">
 
 Build of custom ant model.
-[Code][https://github.com/JozefKamensky/ant-design-draggable-modal]
-[Fork of][https://github.com/DylanVann/ant-design-draggable-modal]
+
+[Code](https://github.com/JozefKamensky/ant-design-draggable-modal)
+
+[Fork of](https://github.com/DylanVann/ant-design-draggable-modal)
 </div>
